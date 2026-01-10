@@ -1,4 +1,4 @@
 import pandas as pd
 
 df = pd.read_parquet("Dataset/processed/clustering/district_features.parquet")
-print(df['cluster_label'].value_counts())
+print(df)
