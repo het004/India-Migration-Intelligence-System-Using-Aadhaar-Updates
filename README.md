@@ -1,5 +1,3 @@
-I'll create a complete, polished README.md file for your Aadhaar Mobility Intelligence project. Let me format this properly for GitHub:
-
 ```markdown
 # 📘 Aadhaar Mobility Intelligence Dashboard
 
