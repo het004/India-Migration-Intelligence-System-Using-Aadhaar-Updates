@@ -309,7 +309,7 @@ This project was developed for the **DataGov India — Aadhaar Societal Trends H
 
 **Contact:** shahhet00004@gmail.com
 
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**GitHub:** [@het004](https://github.com/het004)
 
 ---
 
